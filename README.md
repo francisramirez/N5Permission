@@ -21,3 +21,4 @@ The **Permission Management Service** is a .NET Core application that provides f
 - [Elasticsearch](https://www.elastic.co/downloads/elasticsearch) (for indexing)
 - [Apache Kafka](https://kafka.apache.org/downloads) (for messaging)
 ### Clone the Repository
+- https://github.com/francisramirez/N5Permission.git
